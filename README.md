@@ -20,7 +20,6 @@ This project helps users organize their daily tasks and is a great starting poin
    git clone https://github.com/Nandhitha-1917/To-do-list.git
 
 #screenshots
-# sample-test
 <img width="1869" height="730" alt="Screenshot 2025-08-16 190750" src="https://github.com/user-attachments/assets/9e14ee60-2d00-446c-88aa-0a5aeed7ad74" />
 
 
@@ -36,7 +35,6 @@ https://github.com/user-attachments/assets/e47393d4-ff77-46f6-b08e-d789ce9f2368
 
 
 
-https://github.com/user-attachments/assets/fcaedd85-f823-41e9-b438-4c17933b7ec4
 
 
 
