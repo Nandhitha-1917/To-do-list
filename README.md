@@ -26,7 +26,11 @@ This project helps users organize their daily tasks and is a great starting poin
 <img width="1872" height="745" alt="Screenshot 2025-08-16 190738" src="https://github.com/user-attachments/assets/86c3b9de-9250-41f8-8205-e29f2b820fec"/>
 
 
-## Demo
+## Demo Video
 
-![1](https://drive.google.com/drive/folders/1oH4yFLyftUchwzAeMOCYoXtqplospoOg)
+
+
+https://github.com/user-attachments/assets/fcaedd85-f823-41e9-b438-4c17933b7ec4
+
+
 
